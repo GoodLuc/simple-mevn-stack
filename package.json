@@ -7,7 +7,7 @@
     "start": "node server/index.js",
     "dev": "nodemon server/index.js"
   },
-  "author": "Lucas",
+  "author": "Lucas Randazzo",
   "license": "ISC",
   "dependencies": {
     "@vue/cli": "^4.2.2",
